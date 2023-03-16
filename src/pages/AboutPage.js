@@ -20,7 +20,7 @@ const AboutPage = () => {
             voluptate blanditiis, obcaecati beatae ab aut ipsa consequuntur
             tempora cumque. Ut quo enim vero odio minus nostrum eveniet,
             doloribus veritatis dolorem unde ipsum, voluptatibus totam.
-            Explicabo, quas libero! Laborum incidunt minima consequatur ratione?
+            Explicabo, quas libero! Laborum incidunt minima consequatur?
           </p>
         </article>
       </Wrapper>
